@@ -1,0 +1,9 @@
+# API 키 및 민감 정보
+.env
+
+# Python 가상환경
+venv/
+__pycache__/
+
+# .DS_store
+.DS_store
